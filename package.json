@@ -1,0 +1,15 @@
+{
+  "name": "vvv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "refreshVSToken": "vsts-npm-auth -config .npmrc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "calculatorlib.jslib": "^1.0.0"
+  }
+}
